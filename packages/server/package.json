@@ -1,10 +1,10 @@
 {
   "name": "@ngfed/server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@ngfed/common": "1.0.0"
+    "@ngfed/common": "^1.0.1"
   },
   "scripts": {
     "test": "echo test server with version: $npm_package_version"
